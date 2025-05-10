@@ -24,6 +24,7 @@ To run the car trajectory planning example, use the following command:
 The animation below shows the optimization progress. 
 The left panel displays the xy-path, while the panels on the right show the time series of states and control inputs. 
  
+![Image](https://github.com/user-attachments/assets/a508dd60-eac8-4e14-9270-0203200882f4)
 
 ## Citations
 [1] A. Pavlov, I. Shames and C. Manzie, "Interior Point Differential Dynamic Programming," in IEEE Transactions on Control Systems Technology, vol. 29, no. 6, pp. 2720-2727, Nov. 2021.  
